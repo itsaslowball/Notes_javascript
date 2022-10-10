@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+#entry-box{
+ background-color: rgb(205, 184, 159)   ;
+    padding: 2% 5%;
+    margin-bottom: 2%;
+ 
+}
+.btn:hover{
+    background-color: darkblue;
+}
+
+.noteCard{
+    background-color:lightsalmon ;
+    border-radius: 20px;
+    border: 2px solid black;
+    
+}
+.card-title{
+    font-weight: bold;
+}
+/* #notes{
+    text-align: center;
+} */
